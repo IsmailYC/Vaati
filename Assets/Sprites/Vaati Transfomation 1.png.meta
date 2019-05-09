@@ -1,0 +1,1085 @@
+fileFormatVersion: 2
+guid: 782adfb70091aa0499f4379b05ee3f36
+timeCreated: 1466094889
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vaati Transfomation 1_0
+    21300002: Vaati Transfomation 1_1
+    21300004: Vaati Transfomation 1_2
+    21300006: Vaati Transfomation 1_3
+    21300008: Vaati Transfomation 1_4
+    21300010: Vaati Transfomation 1_5
+    21300012: Vaati Transfomation 1_6
+    21300014: Vaati Transfomation 1_7
+    21300016: Vaati Transfomation 1_8
+    21300018: Vaati Transfomation 1_9
+    21300020: Vaati Transfomation 1_10
+    21300022: Vaati Transfomation 1_11
+    21300024: Vaati Transfomation 1_12
+    21300026: Vaati Transfomation 1_13
+    21300028: Vaati Transfomation 1_14
+    21300030: Vaati Transfomation 1_15
+    21300032: Vaati Transfomation 1_16
+    21300034: Vaati Transfomation 1_17
+    21300036: Vaati Transfomation 1_18
+    21300038: Vaati Transfomation 1_19
+    21300040: Vaati Transfomation 1_20
+    21300042: Vaati Transfomation 1_21
+    21300044: Vaati Transfomation 1_22
+    21300046: Vaati Transfomation 1_23
+    21300048: Vaati Transfomation 1_24
+    21300050: Vaati Transfomation 1_25
+    21300052: Vaati Transfomation 1_26
+    21300054: Vaati Transfomation 1_27
+    21300056: Vaati Transfomation 1_28
+    21300058: Vaati Transfomation 1_29
+    21300060: Vaati Transfomation 1_30
+    21300062: Vaati Transfomation 1_31
+    21300064: Vaati Transfomation 1_32
+    21300066: Vaati Transfomation 1_33
+    21300068: Vaati Transfomation 1_34
+    21300070: Vaati Transfomation 1_35
+    21300072: Vaati Transfomation 1_36
+    21300074: Vaati Transfomation 1_37
+    21300076: Vaati Transfomation 1_38
+    21300078: Vaati Transfomation 1_39
+    21300080: Vaati Transfomation 1_40
+    21300082: Vaati Transfomation 1_41
+    21300084: Vaati Transfomation 1_42
+    21300086: Vaati Transfomation 1_43
+    21300088: Vaati Transfomation 1_44
+    21300090: Vaati Transfomation 1_45
+    21300092: Vaati Transfomation 1_46
+    21300094: Vaati Transfomation 1_47
+    21300096: Vaati Transfomation 1_48
+    21300098: Vaati Transfomation 1_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 28
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vaati Transfomation 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 131
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 131
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 131
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 131
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 131
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 130
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -22, y: 0}
+        - {x: -22, y: -28}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 22, y: -25}
+        - {x: 22, y: 3}
+        - {x: 9, y: 32}
+    - name: Vaati Transfomation 1_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 130
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 29.5}
+        - {x: -24, y: 12.5}
+        - {x: -24, y: -11.5}
+        - {x: -14, y: -29.5}
+        - {x: 18, y: -29.5}
+        - {x: 24, y: -16.5}
+        - {x: 24, y: 13.5}
+        - {x: 4, y: 29.5}
+    - name: Vaati Transfomation 1_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 15, y: 11}
+        - {x: 15, y: 7}
+        - {x: 15, y: 10}
+        - {x: 13, y: 12}
+        - {x: 8, y: 23}
+        - {x: 5, y: 27}
+        - {x: -6, y: 27}
+        - {x: -10, y: 24}
+        - {x: -23, y: 12}
+        - {x: -23, y: -22}
+        - {x: -10, y: -27}
+        - {x: 18, y: -27}
+        - {x: 23, y: -20}
+        - {x: 23, y: 14}
+        - {x: 16, y: 18}
+      - - {x: -16, y: 17}
+        - {x: -13, y: 14}
+        - {x: -10, y: 15}
+        - {x: -9, y: 19}
+        - {x: -12, y: 23}
+        - {x: -15, y: 22}
+      - - {x: 10, y: 22}
+        - {x: 9, y: 18}
+        - {x: 12, y: 14}
+        - {x: 13, y: 14}
+        - {x: 16, y: 17}
+        - {x: 16, y: 19}
+        - {x: 13, y: 23}
+    - name: Vaati Transfomation 1_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 69
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26.5}
+        - {x: -24, y: -4.5}
+        - {x: -24, y: -22.5}
+        - {x: -16, y: -26.5}
+        - {x: 24, y: -26.5}
+        - {x: 24, y: -2.5}
+        - {x: 8, y: 26.5}
+      - - {x: -20, y: 16.5}
+        - {x: -23, y: 13.5}
+        - {x: -23, y: 8.5}
+        - {x: -20, y: 5.5}
+        - {x: -17, y: 6.5}
+        - {x: -16, y: 9.5}
+        - {x: -16, y: 13.5}
+        - {x: -19, y: 16.5}
+      - - {x: 17, y: 15.5}
+        - {x: 16, y: 12.5}
+        - {x: 16, y: 8.5}
+        - {x: 19, y: 5.5}
+        - {x: 20, y: 5.5}
+        - {x: 23, y: 8.5}
+        - {x: 23, y: 13.5}
+        - {x: 20, y: 16.5}
+      - - {x: -15, y: 21.5}
+        - {x: -13, y: 19.5}
+        - {x: -10, y: 20.5}
+        - {x: -10, y: 23.5}
+        - {x: -12, y: 25.5}
+        - {x: -15, y: 24.5}
+      - - {x: 10, y: 21.5}
+        - {x: 12, y: 19.5}
+        - {x: 15, y: 20.5}
+        - {x: 15, y: 23.5}
+        - {x: 13, y: 25.5}
+        - {x: 10, y: 24.5}
+    - name: Vaati Transfomation 1_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -9, y: 28}
+        - {x: -21, y: -3}
+        - {x: -21, y: -28}
+        - {x: 17, y: -28}
+        - {x: 21, y: -27}
+        - {x: 21, y: -8}
+        - {x: 20, y: -6}
+      - - {x: -17, y: 4}
+        - {x: -18, y: 0}
+        - {x: -15, y: -3}
+        - {x: -14, y: -3}
+        - {x: -11, y: 0}
+        - {x: -11, y: 2}
+        - {x: -14, y: 5}
+      - - {x: 11, y: 2}
+        - {x: 11, y: 0}
+        - {x: 14, y: -3}
+        - {x: 15, y: -3}
+        - {x: 18, y: 0}
+        - {x: 16, y: 5}
+        - {x: 14, y: 5}
+      - - {x: -21, y: 9}
+        - {x: -20, y: 8}
+        - {x: -17, y: 9}
+        - {x: -16, y: 13}
+        - {x: -19, y: 18}
+        - {x: -21, y: 17}
+      - - {x: 17, y: 17}
+        - {x: 16, y: 12}
+        - {x: 19, y: 8}
+        - {x: 21, y: 9}
+        - {x: 21, y: 17}
+        - {x: 20, y: 18}
+    - name: Vaati Transfomation 1_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 28}
+        - {x: -21, y: -4}
+        - {x: -21, y: -28}
+        - {x: 16, y: -28}
+        - {x: 21, y: -26}
+        - {x: 21, y: 2}
+        - {x: 9, y: 28}
+      - - {x: -21, y: 13}
+        - {x: -20, y: 12}
+        - {x: -17, y: 13}
+        - {x: -17, y: 17}
+        - {x: -19, y: 19}
+        - {x: -21, y: 18}
+      - - {x: 17, y: 18}
+        - {x: 17, y: 14}
+        - {x: 19, y: 12}
+        - {x: 21, y: 13}
+        - {x: 21, y: 18}
+        - {x: 20, y: 19}
+    - name: Vaati Transfomation 1_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 69
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 28}
+        - {x: -22, y: -2}
+        - {x: -22, y: -26}
+        - {x: -15, y: -28}
+        - {x: 22, y: -28}
+        - {x: 22, y: 0}
+        - {x: 11, y: 28}
+    - name: Vaati Transfomation 1_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -21, y: 18}
+        - {x: -21, y: -28}
+        - {x: 21, y: -28}
+        - {x: 21, y: -5}
+        - {x: 7, y: 28}
+      - - {x: -20, y: 1}
+        - {x: -21, y: -2}
+        - {x: -21, y: -6}
+        - {x: -18, y: -7}
+        - {x: -17, y: -7}
+        - {x: -14, y: -6}
+        - {x: -14, y: -1}
+        - {x: -15, y: 1}
+      - - {x: 15, y: 1}
+        - {x: 14, y: -2}
+        - {x: 14, y: -6}
+        - {x: 16, y: -7}
+        - {x: 20, y: -7}
+        - {x: 21, y: -4}
+        - {x: 21, y: 0}
+        - {x: 19, y: 1}
+    - name: Vaati Transfomation 1_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -9, y: 28}
+        - {x: -21, y: -3}
+        - {x: -21, y: -28}
+        - {x: 17, y: -28}
+        - {x: 21, y: -27}
+        - {x: 21, y: -8}
+        - {x: 20, y: -6}
+      - - {x: -20, y: -3}
+        - {x: -18, y: -5}
+        - {x: -15, y: -4}
+        - {x: -15, y: 0}
+        - {x: -17, y: 2}
+        - {x: -20, y: 1}
+      - - {x: 15, y: -3}
+        - {x: 17, y: -5}
+        - {x: 20, y: -4}
+        - {x: 20, y: 0}
+        - {x: 18, y: 2}
+        - {x: 15, y: 1}
+    - name: Vaati Transfomation 1_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -9, y: 28}
+        - {x: -21, y: -3}
+        - {x: -21, y: -28}
+        - {x: 17, y: -28}
+        - {x: 21, y: -27}
+        - {x: 21, y: -8}
+        - {x: 20, y: -6}
+      - - {x: -20, y: -3}
+        - {x: -18, y: -5}
+        - {x: -15, y: -4}
+        - {x: -15, y: 0}
+        - {x: -17, y: 2}
+        - {x: -20, y: 1}
+      - - {x: 15, y: -3}
+        - {x: 17, y: -5}
+        - {x: 20, y: -4}
+        - {x: 20, y: 0}
+        - {x: 18, y: 2}
+        - {x: 15, y: 1}
+    - name: Vaati Transfomation 1_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 69
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -28}
+        - {x: 16, y: -28}
+        - {x: 21, y: -26}
+        - {x: 21, y: -3}
+        - {x: 8, y: 28}
+        - {x: -9, y: 28}
+        - {x: -21, y: 1}
+    - name: Vaati Transfomation 1_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 69
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 28}
+        - {x: -8, y: 23}
+        - {x: -21, y: -1}
+        - {x: -22, y: -3}
+        - {x: -22, y: -27}
+        - {x: -15, y: -28}
+        - {x: 14, y: -28}
+        - {x: 22, y: -23}
+        - {x: 22, y: 1}
+        - {x: 6, y: 28}
+    - name: Vaati Transfomation 1_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 70
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 28}
+        - {x: -10, y: 24}
+        - {x: -21, y: -2}
+        - {x: -21, y: -28}
+        - {x: 21, y: -28}
+        - {x: 21, y: -1}
+        - {x: 7, y: 28}
+      - - {x: -20, y: 1}
+        - {x: -21, y: -2}
+        - {x: -21, y: -6}
+        - {x: -18, y: -7}
+        - {x: -17, y: -7}
+        - {x: -14, y: -6}
+        - {x: -14, y: -1}
+        - {x: -15, y: 1}
+      - - {x: 15, y: 1}
+        - {x: 14, y: -2}
+        - {x: 14, y: -6}
+        - {x: 16, y: -7}
+        - {x: 20, y: -7}
+        - {x: 21, y: -4}
+        - {x: 21, y: 0}
+        - {x: 19, y: 1}
+    - name: Vaati Transfomation 1_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 69
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28.5}
+        - {x: -21, y: 1.5}
+        - {x: -21, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 21, y: -27.5}
+        - {x: 21, y: 3.5}
+        - {x: 7, y: 28.5}
+    - name: Vaati Transfomation 1_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 69
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 22, y: -25.5}
+        - {x: 22, y: 1.5}
+        - {x: 7, y: 28.5}
+    - name: Vaati Transfomation 1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 29}
+        - {x: -11, y: 29}
+        - {x: -22, y: 1}
+        - {x: -22, y: -25}
+        - {x: -21, y: -28}
+        - {x: -16, y: -29}
+        - {x: 16, y: -29}
+        - {x: 21, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+    - name: Vaati Transfomation 1_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29}
+        - {x: -23, y: 8}
+        - {x: -23, y: -20}
+        - {x: -21, y: -29}
+        - {x: 17, y: -29}
+        - {x: 23, y: -23}
+        - {x: 23, y: 15}
+        - {x: 12, y: 29}
+    - name: Vaati Transfomation 1_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29}
+        - {x: -23, y: 5}
+        - {x: -23, y: -25}
+        - {x: -13, y: -29}
+        - {x: 16, y: -29}
+        - {x: 23, y: -23}
+        - {x: 23, y: 6}
+        - {x: 8, y: 29}
+    - name: Vaati Transfomation 1_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.5}
+        - {x: -23, y: 4.5}
+        - {x: -23, y: -24.5}
+        - {x: -9, y: -29.5}
+        - {x: 15, y: -29.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 5.5}
+        - {x: 8, y: 29.5}
+    - name: Vaati Transfomation 1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.5}
+        - {x: -14, y: 15.5}
+        - {x: -13, y: 13.5}
+        - {x: -11, y: 11.5}
+        - {x: -11, y: 9.5}
+        - {x: -11, y: 11.5}
+        - {x: -15, y: 14.5}
+        - {x: -18, y: 15.5}
+        - {x: -22, y: 9.5}
+        - {x: -22, y: -21.5}
+        - {x: -10, y: -29.5}
+        - {x: 8, y: -29.5}
+        - {x: 22, y: -20.5}
+        - {x: 22, y: 16.5}
+        - {x: 13, y: 29.5}
+    - name: Vaati Transfomation 1_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.5}
+        - {x: -19, y: 23.5}
+        - {x: -21, y: 15.5}
+        - {x: -21, y: -27.5}
+        - {x: -18, y: -29.5}
+        - {x: 19, y: -29.5}
+        - {x: 21, y: -26.5}
+        - {x: 21, y: 23.5}
+        - {x: 15, y: 29.5}
+    - name: Vaati Transfomation 1_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30}
+        - {x: -21, y: 16}
+        - {x: -21, y: -23}
+        - {x: -11, y: -30}
+        - {x: 21, y: -30}
+        - {x: 21, y: 30}
+    - name: Vaati Transfomation 1_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -20, y: 28}
+        - {x: -21, y: 23}
+        - {x: -21, y: -23}
+        - {x: -15, y: -30}
+        - {x: 15, y: -30}
+        - {x: 21, y: -28}
+        - {x: 21, y: 27}
+        - {x: 15, y: 30}
+    - name: Vaati Transfomation 1_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 5
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 6}
+        - {x: 22, y: 9}
+        - {x: 22, y: 23}
+        - {x: 21, y: 27}
+        - {x: 16, y: 30}
+        - {x: -18, y: 30}
+        - {x: -22, y: 29}
+        - {x: -22, y: 11}
+        - {x: -18, y: 7}
+        - {x: -15, y: 6}
+        - {x: -16, y: 6}
+        - {x: -22, y: 5}
+        - {x: -22, y: -26}
+        - {x: -16, y: -30}
+        - {x: 10, y: -30}
+        - {x: 22, y: -25}
+        - {x: 22, y: 3}
+        - {x: 16, y: 6}
+        - {x: 14, y: 6}
+    - name: Vaati Transfomation 1_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 47
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: 5, y: 30}
+        - {x: -10, y: 30}
+        - {x: -21, y: 26}
+        - {x: -21, y: -26}
+        - {x: -17, y: -30}
+        - {x: 21, y: -30}
+        - {x: 21, y: 24}
+        - {x: 12, y: 24}
+    - name: Vaati Transfomation 1_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 47
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Vaati Transfomation 1_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -22, y: -23}
+        - {x: -8, y: -30}
+        - {x: 8, y: -30}
+        - {x: 22, y: -24}
+        - {x: 22, y: 26}
+        - {x: 16, y: 30}
+    - name: Vaati Transfomation 1_47
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 9}
+        - {x: 18, y: 10}
+        - {x: 21, y: 13}
+        - {x: 21, y: 25}
+        - {x: 14, y: 30}
+        - {x: -12, y: 30}
+        - {x: -21, y: 27}
+        - {x: -21, y: 12}
+        - {x: -18, y: 10}
+        - {x: -14, y: 10}
+        - {x: -16, y: 9}
+        - {x: -18, y: 7}
+        - {x: -21, y: 3}
+        - {x: -21, y: -23}
+        - {x: -10, y: -30}
+        - {x: 11, y: -30}
+        - {x: 21, y: -27}
+        - {x: 21, y: 5}
+        - {x: 17, y: 8}
+    - name: Vaati Transfomation 1_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 30}
+        - {x: -15, y: 28}
+        - {x: -21, y: 10}
+        - {x: -21, y: -28}
+        - {x: -15, y: -30}
+        - {x: 17, y: -30}
+        - {x: 21, y: -25}
+        - {x: 21, y: 6}
+        - {x: 10, y: 30}
+      - - {x: -18, y: 24}
+        - {x: -21, y: 23}
+        - {x: -21, y: 11}
+        - {x: -19, y: 10}
+        - {x: -11, y: 10}
+        - {x: -9, y: 15}
+        - {x: -9, y: 19}
+        - {x: -11, y: 24}
+      - - {x: 12, y: 24}
+        - {x: 9, y: 23}
+        - {x: 9, y: 15}
+        - {x: 12, y: 10}
+        - {x: 18, y: 10}
+        - {x: 21, y: 13}
+        - {x: 21, y: 24}
+    - name: Vaati Transfomation 1_49
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 5
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 30}
+        - {x: -8, y: 25}
+        - {x: -8, y: 22}
+        - {x: -9, y: 17}
+        - {x: -9, y: 16}
+        - {x: -9, y: 19}
+        - {x: -13, y: 26}
+        - {x: -21, y: 23}
+        - {x: -21, y: -26}
+        - {x: -18, y: -30}
+        - {x: 14, y: -30}
+        - {x: 21, y: -27}
+        - {x: 21, y: 3}
+        - {x: 7, y: 30}
+      - - {x: 12, y: 24}
+        - {x: 9, y: 23}
+        - {x: 9, y: 15}
+        - {x: 12, y: 10}
+        - {x: 18, y: 10}
+        - {x: 21, y: 13}
+        - {x: 21, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
